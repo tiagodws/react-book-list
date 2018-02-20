@@ -3,4 +3,4 @@ Projeto de lista de livors utilizando Redux, feito durante o curso https://www.u
 
 ## Demonstração
 
-https://tiagodws-react-book-list.herokuapp.com/
+https://tiagodws-book-list.herokuapp.com/
